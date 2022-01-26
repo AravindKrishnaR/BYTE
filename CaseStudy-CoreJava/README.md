@@ -42,9 +42,58 @@ In the main( ) method, read the person and donor details from the user and call 
 **[Note:** The date format should be **“dd-MM-yyyy”]**
 
 ### **Output:**
+```
+Enter the name : 
+Justin
+Enter Date of Birth : 
+11-01-1995
+Enter Gender : 
+Male
+Enter Mobile Number : 
+9994910354
+Enter Blood Group : 
+B+ve
+Enter Blood Bank Name : 
+Blood Assurance
+Enter Donor Type : 
+Whole Blood
+Enter Donation Date : 
+09-07-2017
+Donation Details : 
+Name : Justin
+Date Of Birth : 11-01-1995
+Gender : Male
+Mobile Number : 9994910354
+Blood Group : B+ve
+Blood Bank Name : Blood Assurance
+Donor Type : Whole Blood
+Donation Date : 09-07-2017
+```
 
-|![](https://github.com/AravindKrishnaR/BYTE/blob/main/CaseStudy-CoreJava/output/Output1.png)|
-| :- |
-
-|![](https://github.com/AravindKrishnaR/BYTE/blob/main/CaseStudy-CoreJava/output/Output2.png)|
-| :- |
+```
+Enter the name : 
+Steffie
+Enter Date of Birth : 
+12-01-1996
+Enter Gender : 
+Female
+Enter Mobile Number : 
+8868875432
+Enter Blood Group : 
+O+ve
+Enter Blood Bank Name : 
+Edward Blood Bank
+Enter Donor Type : 
+Whole Blood
+Enter Donation Date : 
+21-12-2016
+Donation Details : 
+Name : Steffie
+Date Of Birth : 12-01-1996
+Gender : Female
+Mobile Number : 8868875432
+Blood Group : O+ve
+Blood Bank Name : Edward Blood Bank
+Donor Type : Whole Blood
+Donation Date : 21-12-2016
+```
