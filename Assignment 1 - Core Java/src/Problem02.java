@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Problem2 {
+public class Problem02 {
 	
 	private static void swap(int num1, int num2) {
 		num1 = num1 + num2;
