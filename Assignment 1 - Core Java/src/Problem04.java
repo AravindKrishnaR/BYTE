@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Problem4 {
+public class Problem04 {
 	
 	private static boolean ifVowel(char character) {
 		/*if(character == 'a' || character == 'e' || character == 'i' || character == 'o' || character == 'u')
