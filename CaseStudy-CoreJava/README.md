@@ -43,8 +43,8 @@ In the main( ) method, read the person and donor details from the user and call 
 
 ### **Output:**
 
-|![](https://github.com/AravindKrishnaR/BYTE--CaseStudy-CoreJava/blob/main/output/Output1.png)|
+|![](https://github.com/AravindKrishnaR/BYTE/blob/main/CaseStudy-CoreJava/output/Output1.png)|
 | :- |
 
-|![](https://github.com/AravindKrishnaR/BYTE--CaseStudy-CoreJava/blob/main/output/Output2.png)|
+|![](https://github.com/AravindKrishnaR/BYTE/blob/main/CaseStudy-CoreJava/output/Output2.png)|
 | :- |
