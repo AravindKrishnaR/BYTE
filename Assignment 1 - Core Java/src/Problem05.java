@@ -1,5 +1,5 @@
 
-public class Problem5 {
+public class Problem05 {
 	
 	private static boolean isEven(int num) {
 		if(num % 2 == 0)
