@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Problem9 {
+public class Problem09 {
 
 	static void reverse(int[] arr, int num)
 	{
