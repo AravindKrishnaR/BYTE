@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Problem8 {
+public class Problem08 {
 	
 	private static void pattern1(int num) {
 		for(int i = 1; i <= num; i++) {
