@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Problem7 {
+public class Problem07 {
 	
 	private static boolean isEven(int num) {
 		if(num % 2 == 0)
